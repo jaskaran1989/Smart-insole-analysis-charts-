@@ -2,19 +2,24 @@
 
 An example repository for creating website graphs from CSV files. This repository uses c3.js and PapaParse.
 
+#Tecnologies Used
 ### Graph/Chart Library
 c3.js: http://c3js.org/
 
 ### CSV/JSON Parsing Library
 PapaParse: http://papaparse.com/
 
-### Servr Side
+### Server Side
 Nodejs :https://nodejs.org/en/
 
+### UI
+Bootstrap: https://getbootstrap.com/
+CSS
+HTML
 
-### Only Requirement
+
+# How to Run (Spin a web server I already provided in this repo)
 You need a web server. I used Node Js to initiate a web server.
-
 ```
 cd maingraph/
 node .\server.js
