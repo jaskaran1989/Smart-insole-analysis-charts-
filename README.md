@@ -1,6 +1,6 @@
-# graphs-from-csv
+# Graphs-from-csv
 
-An example repository for creating website graphs from CSV files. This repository uses c3.js and PapaParse.
+An example repository for creating website graphs from CSV files. This repository uses following technologies:
 
 # Tecnologies Used
 ### Graph/Chart Library
@@ -13,7 +13,7 @@ PapaParse: http://papaparse.com/
 Nodejs :https://nodejs.org/en/
 
 ### UI
-1. Material Design for Bootstrap: https://mdbootstrap.com/getting-started/ [Dashboard template is used] version: MDB Free 4.5.7
+1. Material Design for Bootstrap: https://mdbootstrap.com/getting-started/  version: MDB Free 4.5.7
 2. CSS
 3. HTML
 
@@ -46,6 +46,6 @@ After rrunning  webserver Visit http://localhost:8888 to see the website.
 
 # Tips
 
-While developing this project I used Google chrome Developer tools heavily, make sure you also take advantage of those tools when debugiing.
+While developing this project I used Google chrome Developer tools heavily, make sure you also take advantage of those tools when debugging your code.
 
 
