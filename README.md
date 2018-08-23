@@ -21,8 +21,11 @@ Nodejs :https://nodejs.org/en/
 # How to Run (Spin a web server I already provided in this repo)
 You need a web server. I used Node Js to write a web server.
 ```
+intall node js first from the Node website https://nodejs.org/en/
+
 cd maingraph/
 node .\server.js
+
 After rrunning  webserver Visit http://localhost:8888 to see the website.
 ```
 # Gif showing how data rendered on screen after server starts 
