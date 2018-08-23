@@ -13,9 +13,9 @@ PapaParse: http://papaparse.com/
 Nodejs :https://nodejs.org/en/
 
 ### UI
-Bootstrap: https://getbootstrap.com/
-CSS
-HTML
+1. Bootstrap: https://getbootstrap.com/ [Dashboard template is used]
+2. CSS
+3. HTML
 
 
 # How to Run (Spin a web server I already provided in this repo)
