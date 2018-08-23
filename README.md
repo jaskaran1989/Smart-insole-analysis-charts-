@@ -8,17 +8,22 @@ c3.js: http://c3js.org/
 ### CSV/JSON Parsing Library
 PapaParse: http://papaparse.com/
 
+### Servr Side
+Nodejs:https://nodejs.org/en/
+
+
 ### Only Requirement
-You need a web server. I used python to initiate a web server.
+You need a web server. I used Node Js to initiate a web server.
 
 ```
-python --version
-Python 2.7.10
+cd maingraph/
+node .\server.js
 ```
+### Some Snippets
+![alt text](https://github.com/jaskaran1989/Smart-insole-analysis-charts-/blob/master/Capture.PNG)
 
-```
-cd graphs-from-csv/
-python -m SimpleHTTPServer
-```
+![alt text](https://github.com/jaskaran1989/Smart-insole-analysis-charts-/blob/master/Capture1.PNG)
 
-Visit http://localhost:8000 to see the website.
+
+
+Visit http://localhost:8888 to see the website.
