@@ -55,6 +55,3 @@ After rrunning  webserver Visit http://localhost:8888 to see the website.
 
 While developing this project I used Google chrome Developer tools heavily, make sure you also take advantage of those tools when debugging your code.
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
