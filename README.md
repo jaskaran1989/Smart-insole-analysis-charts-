@@ -4,13 +4,13 @@ An example repository for creating website graphs from CSV files. This repositor
 
 # Tecnologies Used
 ### Graph/Chart Library
-c3.js: http://c3js.org/
+c3.js: http://c3js.org/ (already in repo)
 
 ### CSV/JSON Parsing Library
-PapaParse: http://papaparse.com/
+PapaParse: http://papaparse.com/ (already in repo)
 
 ### Server Side
-Nodejs :https://nodejs.org/en/
+Nodejs :https://nodejs.org/en/ (need to install on your machine)
 
 ### UI
 1. Material Design for Bootstrap: https://mdbootstrap.com/getting-started/  version: MDB Free 4.5.7
@@ -19,6 +19,7 @@ Nodejs :https://nodejs.org/en/
 
 
 # How to Run (Spin a web server I already provided in this repo)
+
 You need a web server. I used Node Js to write a web server.
 ```
 intall node js first from the Node website https://nodejs.org/en/
@@ -28,7 +29,10 @@ node .\server.js
 
 After rrunning  webserver Visit http://localhost:8888 to see the website.
 ```
+
+
 # Gif showing how data rendered on screen after server starts 
+
 ![alt text](https://github.com/jaskaran1989/Smart-insole-analysis-charts-/blob/master/moo.gif)
 
 
@@ -51,4 +55,7 @@ After rrunning  webserver Visit http://localhost:8888 to see the website.
 
 While developing this project I used Google chrome Developer tools heavily, make sure you also take advantage of those tools when debugging your code.
 
-
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
