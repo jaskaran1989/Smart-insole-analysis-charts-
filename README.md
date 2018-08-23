@@ -2,7 +2,7 @@
 
 An example repository for creating website graphs from CSV files. This repository uses c3.js and PapaParse.
 
-#Tecnologies Used
+## Tecnologies Used
 ### Graph/Chart Library
 c3.js: http://c3js.org/
 
@@ -19,10 +19,11 @@ HTML
 
 
 # How to Run (Spin a web server I already provided in this repo)
-You need a web server. I used Node Js to initiate a web server.
+You need a web server. I used Node Js to write a web server.
 ```
 cd maingraph/
 node .\server.js
+After rrunning  webserver Visit http://localhost:8888 to see the website.
 ```
 ### Gif showing how data rendered on screen after server starts 
 ![alt text](https://github.com/jaskaran1989/Smart-insole-analysis-charts-/blob/master/moo.gif)
@@ -37,6 +38,8 @@ node .\server.js
 2. Pie Chart Showing the total forced given on front and back sensors.
 ![alt text](https://github.com/jaskaran1989/Smart-insole-analysis-charts-/blob/master/Capture1.PNG)
 
+# Tips
+
+While developing this project I used Google chrome Developer tools heavily, make sure you also take advantage of those tools when debugiing.
 
 
-Visit http://localhost:8888 to see the website.
