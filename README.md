@@ -1,6 +1,6 @@
 # Smart-insole-analysis
 
-This was a project which I develeped for mechanrocnic students at SFU where I was given data collected from foot insole sensors and I produce charts to repressnt where user is putting more pressure while walking.
+This was a project which I develeped for Mechatronic students at SFU where I was given data collected from foot insole sensors and I produce charts to repressnt where user is putting more pressure while walking.
 
 # Tecnologies Used
 ### Graph/Chart Library
