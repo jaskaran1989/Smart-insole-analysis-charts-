@@ -1,6 +1,6 @@
-# Graphs-from-csv
+# Smart-insole-analysis
 
-An example repository for creating website graphs from CSV files. This repository uses following technologies:
+This was a project which I develeped for mechanrocnic students at SFU where I was given data collected from foot insole sensors and I produce charts to repressnt where user is putting more pressure while walking.
 
 # Tecnologies Used
 ### Graph/Chart Library
